@@ -1,6 +1,10 @@
-
-
 import java.util.Scanner;
+
+/* 
+It calculates the area of a circle, based on a radius given by the user. If the input is
+negative, or zero, the program should not calculate the area, but warn the user of the mistake.
+*/
+
 public class Radius{
     public static void main(String[] args) {
 
