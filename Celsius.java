@@ -13,7 +13,7 @@ public class Celsius{
     System.out.println("Please input the current temperature in Celsius");
     double celsius = sc.nextDouble();
 
-    String message = celsius < 0 ? "We recommend you putting clothes to keep you warm." : "PUT ON THAT TANK TOP LETS GO";
+    String message = celsius < 0 ? "We recommend you putting warm clothes." : "PUT ON THAT TANK TOP WITH DEM FLIPFLOPS LETS GO";
 
     System.out.println(message);
   }
